@@ -1,5 +1,6 @@
 # Save URL 
-![GitHub Logo](images/icon - Copy.PNG)
+![GitHub Logo](images/icon.png)
+
 A simple Chrome extension to copy URL of all open tabs.
 
 ## How to install
