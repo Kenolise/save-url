@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "Save URL",
+    "description": "With this extension you can copy url of all open tabs in your browser.",
+    "version": "1.2.1",
+    "permissions": [
+        "tabs"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/icon.png",
+            "32": "images/icon - Copy (2).png",
+            "48": "images/icon - Copy (3).png",
+            "128": "images/icon - Copy (2).png"
+        }
+    },
+    "icons": {
+        "16": "images/icon.png",
+        "32": "images/icon - Copy (2).png",
+        "48": "images/icon - Copy (3).png",
+        "128": "images/icon - Copy (2).png"
+    }
+}
